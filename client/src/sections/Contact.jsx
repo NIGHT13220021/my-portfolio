@@ -59,7 +59,7 @@ export default function Contact() {
                 Email
               </p>
               <p className="text-lg group-hover:underline">
-                kundan@example.com
+                kundanbhardwaj1322002@gmail.com
               </p>
             </div>
           </a>
@@ -75,14 +75,14 @@ export default function Contact() {
                 Call
               </p>
               <p className="text-lg group-hover:underline">
-                +91 98765 43210
+                +91 98784 18957
               </p>
             </div>
           </a>
 
           {/* WhatsApp */}
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/919878418957"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-6 group"
